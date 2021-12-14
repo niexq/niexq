@@ -39,4 +39,4 @@
 + [react-auto-sizer](https://github.com/niexq/react-auto-sizer) 自动计算宽高的react组件
 + [dumi-template-simple](https://github.com/niexq/dumi-template-simple) 基于dumi-template为组件开发场景而生的文档模板
 + [koaComposeTest](https://github.com/niexq/koaComposeTest) 浅记koa的洋葱模型实现
-+ [what-plugin-template](https://github.com/niexq/what-plugin-template) 一个普通的js插件模板（可用于组件库或方法库
++ [what-plugin-template](https://github.com/niexq/what-plugin-template) 一个普通的js插件模板（可用于组件库或方法库）
