@@ -2,13 +2,13 @@
 
 <font color=#555 size=3 face="幼圆">我叫`小强`， 🇨🇳🌱🏀⛹🏻‍♂🎖一个忠爱编程`上了年纪的新人`</font> 🎖🛵⏳🌱🇨🇳 
 
-社区🚀
+**社区🚀**
 
 [![](https://img.shields.io/badge/掘金-blue?style=flat-square)](https://juejin.cn/user/4318537404123688/posts)
 [![](https://img.shields.io/badge/segmentfault-00965e?style=flat-square)](https://segmentfault.com/u/niexq/articles)
 
 
-擅长🏄
+**擅长🏄**
 
 <p>
 
@@ -17,6 +17,7 @@
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![RN](https://img.shields.io/badge/-ReactNative-61dafb?style=flat-square&logo=react&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 </p>
 
@@ -32,7 +33,7 @@
 
 <img height="233" src="https://raw.githubusercontent.com/niexq/picbed/main/picgo/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E6%A0%87%E5%87%86%E8%89%B2%E7%89%88.png" />
 
-我的开源🔥
+**开源在...🔥**
 
 + [react-app-qiankun-main](https://github.com/niexq/react-app-qiankun-main) 基于create-react-app，qiankun构建并部署的基座
 + [react-auto-sizer](https://github.com/niexq/react-auto-sizer) 自动计算宽高的react组件
