@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/segmentfault-00965e?style=flat-square)](https://segmentfault.com/u/niexq/articles)
 
 
-**擅长 🏄**
+**擅长 🧑‍💻**
 
 <p>
 
