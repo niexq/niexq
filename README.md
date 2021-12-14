@@ -22,13 +22,15 @@
 
 <p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niexq&layout=compact&theme=tokyonight&hide=html,ejs,less,vue)](https://github.com/niexq)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niexq&layout=compact&theme=tokyonight&hide=html,ejs,less,vue)](https://github.com/niexq)
 
-[![star](https://github-readme-stats.vercel.app/api?username=niexq&show_icons=true&theme=tokyonight&line_height=33&hide=issues&layout=compact)](https://github.com/niexq)
+[![star](https://github-readme-stats.vercel.app/api?username=niexq&show_icons=true&theme=tokyonight&line_height=33&hide=issues&layout=compact)](https://github.com/niexq) -->
 
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=niexq&show_icons=true&theme=tokyonight&line_height=33&hide=issues&layout=compact" />
 
-![](https://raw.githubusercontent.com/niexq/picbed/main/picgo/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E6%A0%87%E5%87%86%E8%89%B2%E7%89%88.png)
+<!-- </p> -->
+
+<img height="188" src="https://raw.githubusercontent.com/niexq/picbed/main/picgo/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E6%A0%87%E5%87%86%E8%89%B2%E7%89%88.png" />
 
 我的开源🔥
 
