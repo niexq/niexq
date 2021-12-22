@@ -29,9 +29,9 @@
 
 <!-- <img height="200" src="https://github-readme-stats.vercel.app/api?username=niexq&show_icons=true&theme=tokyonight&line_height=33&hide=issues&layout=compact" /> -->
 
-<!-- </p> -->
-
-<img height="233" src="https://raw.githubusercontent.com/niexq/picbed/main/picgo/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E6%A0%87%E5%87%86%E8%89%B2%E7%89%88.png" />
+<!-- 公众号二维码 -->
+<!-- 
+<img height="233" src="https://raw.githubusercontent.com/niexq/picbed/main/picgo/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E6%A0%87%E5%87%86%E8%89%B2%E7%89%88.png" /> -->
 
 **开源在... 🔥**
 
