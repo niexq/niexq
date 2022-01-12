@@ -6,6 +6,8 @@
 
 [![](https://img.shields.io/badge/掘金-blue?style=flat-square)](https://juejin.cn/user/4318537404123688/posts)
 [![](https://img.shields.io/badge/segmentfault-00965e?style=flat-square)](https://segmentfault.com/u/niexq/articles)
+[![](https://img.shields.io/badge/DEV-090909?style=flat-square)](https://dev.to/niexq)
+[![](https://img.shields.io/badge/hashnode-0063fa?style=flat-square)](https://niexq.hashnode.dev)
 
 
 **擅长 🧑‍💻**
